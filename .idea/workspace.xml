@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="deafb5e8-1954-4f95-a0a3-6df123a3bcf0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1QSEBPodg2oV0ude4jV3a2e0lC2" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.simpleChain.js">
+    <configuration name="LevelSandbox.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="LevelSandbox.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="simpleChain.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="simpleChain.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.simpleChain.js" />
+        <item itemvalue="Node.js.LevelSandbox.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deafb5e8-1954-4f95-a0a3-6df123a3bcf0" name="Default Changelist" comment="" />
+      <created>1567755460938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567755460938</updated>
+      <workItem from="1567755462062" duration="2772000" />
+      <workItem from="1567762362743" duration="3381000" />
+      <workItem from="1568016288025" duration="2262000" />
+      <workItem from="1568018996716" duration="1837000" />
+      <workItem from="1568021776952" duration="7275000" />
+      <workItem from="1568084186389" duration="7605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
